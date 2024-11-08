@@ -3,7 +3,12 @@ body{
     background: rgb(41, 5, 241);
     
     }
-Escola Estadual Ivanete De Souza.tit{
+.tit{
         color: rgb(7, 6, 6) ;
         background: rgb(255, 84, 4);
     }
+
+.imagem{
+         text-align: center;
+    
+}
